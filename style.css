@@ -1,0 +1,23 @@
+/* Center everything */
+.first {
+  width: 300px;
+  margin: 100px auto;
+  padding: 20px;
+  text-align: center;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+}
+
+/* Heading */
+.first h1 {
+  margin-bottom: 20px;
+  font-size: 24px;
+}
+
+/* Buttons */
+.first button {
+  padding: 8px 16px;
+  margin: 5px;
+  font-size: 16px;
+  cursor: pointer;
+}
